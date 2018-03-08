@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>Second</label>
+	</settings>
+	<users>
+		<user>
+			<path>Second.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Second.jcp</path>
+		</project>
+	</projects>
+</workspace>

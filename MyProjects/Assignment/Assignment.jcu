@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace_user>
+	<active_project>
+		<label>Assignment</label>
+	</active_project>
+	<projects>
+		<project>
+			<label>Assignment</label>
+			<showfiles>false</showfiles>
+			<folderitem>
+				<path>src</path>
+			</folderitem>
+		</project>
+	</projects>
+	<open_files>
+		<docitem>
+			<path>src\main.java</path>
+			<source>true</source>
+			<index>0</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>src\tata.java</path>
+			<source>true</source>
+			<index>1</index>
+			<active>true</active>
+		</docitem>
+		<docitem>
+			<path>src\Responder.java</path>
+			<source>true</source>
+			<index>2</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>..\..\..\..\..\..\Program Files\Java\jdk1.7.0_51\src.zip!java\lang\String.java</path>
+			<source>true</source>
+			<index>3</index>
+			<active>false</active>
+		</docitem>
+	</open_files>
+	<breakpoints>
+		<breakpoint>
+			<path>src\main.java</path>
+			<class>java.lang</class>
+			<session/>
+			<line>8</line>
+			<enable>true</enable>
+		</breakpoint>
+	</breakpoints>
+</workspace_user>

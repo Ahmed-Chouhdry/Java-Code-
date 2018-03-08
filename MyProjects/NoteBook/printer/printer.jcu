@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace_user>
+	<active_project>
+		<label>printer</label>
+	</active_project>
+	<projects>
+		<project>
+			<label>printer</label>
+			<showfiles>false</showfiles>
+			<folderitem>
+				<path>classes</path>
+			</folderitem>
+			<folderitem>
+				<path>src</path>
+			</folderitem>
+		</project>
+	</projects>
+	<open_files>
+		<docitem>
+			<path>src\printer.java</path>
+			<source>true</source>
+			<index>0</index>
+			<active>true</active>
+		</docitem>
+	</open_files>
+	<breakpoints>
+		<breakpoint>
+			<path>src\printer.java</path>
+			<class/>
+			<session/>
+			<line>21</line>
+			<enable>true</enable>
+		</breakpoint>
+	</breakpoints>
+</workspace_user>

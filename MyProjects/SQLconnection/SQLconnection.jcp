@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+	<settings>
+		<label>SQLconnection</label>
+		<root_path>\</root_path>
+		<output_path>classes\</output_path>
+		<source_path>src\</source_path>
+		<jdkprofile_ref>JDK version 1.7.0_51</jdkprofile_ref>
+		<compiler_ref>&lt;Default&gt;</compiler_ref>
+		<ant_ref/>
+	</settings>
+	<ant_events/>
+	<run_items>
+		<item run="SQLconnection"/>
+		<item run/>
+	</run_items>
+	<runtimes>
+		<runtime>
+			<label>&lt;Default&gt;</label>
+			<application_ref/>
+			<applet_ref/>
+			<debugger_ref/>
+			<param/>
+			<run>SQLconnection</run>
+			<verify>true</verify>
+		</runtime>
+	</runtimes>
+	<libraries/>
+	<files>
+		<include>
+			<folderitem>
+				<path>src</path>
+			</folderitem>
+			<folderitem>
+				<path>src\MyPackage</path>
+			</folderitem>
+			<fileitem>
+				<path>src\selectrow.java</path>
+				<folder>src</folder>
+			</fileitem>
+			<fileitem>
+				<path>src\SQLconnection.java</path>
+				<folder>src</folder>
+			</fileitem>
+			<fileitem>
+				<path>src\MyPackage\mydbcon.java</path>
+				<folder>src\MyPackage</folder>
+			</fileitem>
+		</include>
+	</files>
+	<tasks/>
+</project>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>printer</label>
+	</settings>
+	<users>
+		<user>
+			<path>printer.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>printer.jcp</path>
+		</project>
+	</projects>
+</workspace>

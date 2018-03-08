@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>MSMS</label>
+	</settings>
+	<users>
+		<user>
+			<path>MSMS.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>MSMS.jcp</path>
+		</project>
+	</projects>
+</workspace>

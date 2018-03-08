@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>Mid</label>
+	</settings>
+	<users>
+		<user>
+			<path>Mid2.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Mid.jcp</path>
+		</project>
+	</projects>
+</workspace>

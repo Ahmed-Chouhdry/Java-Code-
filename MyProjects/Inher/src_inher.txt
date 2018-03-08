@@ -1,0 +1,4 @@
+"C:\\Users\\AJ\\Documents\\JCreator Pro\\MyProjects\\Inher\\src\\Employee.java"
+"C:\\Users\\AJ\\Documents\\JCreator Pro\\MyProjects\\Inher\\src\\Inher.java"
+"C:\\Users\\AJ\\Documents\\JCreator Pro\\MyProjects\\Inher\\src\\Person.java"
+"C:\\Users\\AJ\\Documents\\JCreator Pro\\MyProjects\\Inher\\src\\Student.java"

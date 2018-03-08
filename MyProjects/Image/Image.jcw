@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>Image</label>
+	</settings>
+	<users>
+		<user>
+			<path>Image.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Image.jcp</path>
+		</project>
+	</projects>
+</workspace>

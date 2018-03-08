@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>Talal</label>
+	</settings>
+	<users>
+		<user>
+			<path>Talal.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Talal.jcp</path>
+		</project>
+	</projects>
+</workspace>
